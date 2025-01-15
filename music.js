@@ -35,4 +35,10 @@ let trackList = [
     img: "./images/img8.jpg",
     singer: "Kendrick Lamar",
   },
+  {
+    name: "Tyler, The Creator - Like Him",
+    path: "./music/Tyler, The Creator - Like Him.mp3",
+    img: "./images/img8.jpg",
+    singer: "Kendrick Lamar",
+  },
 ];
